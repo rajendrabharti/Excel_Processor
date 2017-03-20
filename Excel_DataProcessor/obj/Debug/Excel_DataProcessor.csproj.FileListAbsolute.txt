@@ -1,0 +1,8 @@
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\bin\Debug\Excel_DataProcessor.dll
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\bin\Debug\Excel_DataProcessor.pdb
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\bin\Debug\Excel.4.5.dll
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\bin\Debug\Excel.4.5.pdb
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\obj\Debug\Excel_DataProcessor.csprojResolveAssemblyReference.cache
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\obj\Debug\Excel_DataProcessor.dll
+C:\Pela\Excel_Data_Processor\Excel_DataProcessor\obj\Debug\Excel_DataProcessor.pdb
